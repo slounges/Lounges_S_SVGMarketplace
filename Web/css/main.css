@@ -41,20 +41,47 @@ h4{
 }
 /* svg css */
 
-main div 
-{ 
-  width: 250px; 
-  display: inline-block;
-  margin-left: 14px;
+
+.product-image:hover {
+  fill: pink;
+  opacity: 0.5;
 }
-
-img, svg 
-{ width: 100%; 
-
+.product-image2:hover{
+  fill: pink;
+  opacity: 0.5;
 }
-
-svg { height: 35px; }
-
+.product-image3:hover{
+  fill: pink;
+  opacity: 0.5;
+}
+.product-image4:hover{
+  fill: pink;
+  opacity: 0.5;
+}
+.product-image5:hover{
+  fill: pink;
+  opacity: 0.5;
+}
+.product-image6:hover{
+  fill: pink;
+  opacity: 0.5;
+}
+.product-image7:hover{
+  fill: pink;
+  opacity: 0.5;
+}
+.product-image8:hover{
+  fill: pink;
+  opacity: 0.5;
+}
+.product-image9:hover{
+  fill: pink;
+  opacity: 0.5;
+}
+.product-image10:hover{
+  fill: pink;
+  opacity: 0.5;
+}
 /*search bar */
 * {box-sizing: border-box;}
 
@@ -150,9 +177,38 @@ svg { height: 35px; }
   flex-basis: 16%;
   display: flex; /* so child elements can use flexbox stuff too! */
 }
+/*images for js*/
 .product-image img {
   max-width: 100%;
 }
+.product-image2 img {
+  max-width: 100%;
+}
+.product-image3 img {
+  max-width: 100%;
+}
+.product-image4 img {
+  max-width: 100%;
+}
+.product-image5 img {
+  max-width: 100%;
+}
+.product-image6 img {
+  max-width: 100%;
+}
+.product-image7 img {
+  max-width: 100%;
+}
+.product-image8 img {
+  max-width: 100%;
+}
+.product-image9 img {
+  max-width: 100%;
+}
+.product-image10 img {
+  max-width: 100%;
+}
+/*images for js*/
 .product-info {
   margin-bottom: auto;
 }
