@@ -1,4 +1,4 @@
-# Lounges_S_SVGMarketplace
+# Sticker SVG Marketplace
 
 
 ## Description
